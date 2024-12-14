@@ -25,9 +25,6 @@ target/
 *.iml
 *.ipr
 
-### VsCode ###
-.vscode
-
 ### JRebel ###
 rebel.xml
 
